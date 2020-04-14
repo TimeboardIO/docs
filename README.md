@@ -2,4 +2,4 @@
 
 ## TOC
 
-[System specifications](SPEC.md)
+[System specifications](SPECS.md)
