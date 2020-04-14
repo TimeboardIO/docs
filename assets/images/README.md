@@ -5,7 +5,7 @@
 
 # Screenshots
 
-![alt text](docs//assets/images/Diagramme_role 14042020.jpg "Rôle utilisateurs")
+![alt text](/assets/images/Diagramme_role%2014042020.jpg "Rôle utilisateurs")
 
 
 
